@@ -1,4 +1,4 @@
-# qa_python
+# qa_python_Sprint_4
 # Тесты для приложения BooksCollector
 
 **Объект тестирования:** класс `BooksCollector` (`main.py`)
